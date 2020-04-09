@@ -11,10 +11,15 @@
     <title>Welcome to Cyrusinema</title>
     <link rel="stylesheet" type="text/css" href="assets/style/style.css" />
 </head>
-<body>
+<body> 
     <div class="signInContainer">
 
         <div class="column">
+
+            <div class="header">
+                <h3>Sign Up</h3>
+                <span>to continue to Cyrusinema</span>
+            </div>
 
             <form method="POST">
 
